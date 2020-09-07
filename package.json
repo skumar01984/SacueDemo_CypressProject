@@ -1,0 +1,15 @@
+{
+  "name": "cypressautomation",
+  "version": "1.0.0",
+  "description": "cypressTest",
+  "main": "index.js",
+  "dependencies": {
+    "cypress": "^5.1.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "cy:run": "cypress run"
+  },
+  "author": "",
+  "license": "ISC"
+}
